@@ -11,7 +11,11 @@
 
 - <font size="4">Database</font>
 
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+- :exploding_head:<font size="4">Loading...</font>&nbsp;:black_large_square:&nbsp;:white_large_square:&nbsp;:white_large_square:&nbsp;:white_large_square:&nbsp;:white_large_square:
+
+  ![Oracle](https://img.shields.io/badge/PL/SQL-41454A?style=for-the-badge&logo=oracle&logoColor=white)
 
 <!-- ### Pending... -->
 
