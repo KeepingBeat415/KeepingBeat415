@@ -13,7 +13,7 @@
 
   ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-- <font size="4">Loading...</font>&nbsp;&nbsp;&nbsp;&nbsp;|:black_large_square:&nbsp;:white_medium_square:&nbsp;:white_medium_square:&nbsp;:white_medium_square:&nbsp;:white_medium_square:|
+- <font size="4">Loading...</font>&nbsp;&nbsp;&nbsp;&nbsp;:black_large_square:&nbsp;:white_medium_square:&nbsp;:white_medium_square:&nbsp;:white_medium_square:&nbsp;:white_medium_square: ( ███▁▁▁▁▁▁▁▁▁▁▁▁▁ )
 
   ![Oracle](https://img.shields.io/badge/PL%2FSQL-41454A?style=for-the-badge&logo=oracle&logoColor=white)
 
