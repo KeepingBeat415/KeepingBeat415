@@ -21,4 +21,4 @@
 
 ## Socials
 
-<p align="left"> <a href="https://www.github.com/Ms-BUG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/fu-liu-2523-ca/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<p align="left"> <a href="https://www.github.com/KeepingBeat415" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/fu-liu-2523-ca/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
