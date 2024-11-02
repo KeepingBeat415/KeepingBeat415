@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
- <img  align="right" height="250px"  width="300px" src="images/runner-icon.png"/>
+ <img  align="right" height="200px"  width="250px" src="images/runner-icon.png"/>
 
 - <font size="4">Languages</font>
 
