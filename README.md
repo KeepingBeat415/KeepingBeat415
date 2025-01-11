@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
- <img  align="right" height="200px"  width="250px" src="images/runner-icon.png"/>
+ <!-- <img  align="right" height="200px"  width="250px" src="images/runner-icon.png"/> -->
 
 - <font size="4">Languages</font>
 
@@ -12,7 +12,7 @@
 
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-- <font size="4">Loading&nbsp;&nbsp;[ ████████▁▁ ]</font>
+- <font size="4">Loading&nbsp;&nbsp;[ ██████████ ]</font>
 
   ![Flutter](https://img.shields.io/badge/CLFC02-4053D6?style=for-the-badge&logo=amazonwebservices&logoColor=wihte)
 
