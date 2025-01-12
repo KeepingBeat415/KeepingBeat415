@@ -6,7 +6,7 @@
 
 - <font size="4">Languages</font>
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;![Oracle](https://img.shields.io/badge/PL%2FSQL-41454A?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-0085CA?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;![Oracle](https://img.shields.io/badge/PL%2FSQL-41454A?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - <font size="4">Database</font>
 
@@ -14,7 +14,7 @@
 
 - <font size="4">Loading&nbsp;&nbsp;[ █▁▁▁▁▁▁▁▁▁ ]</font>
 
-  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 - <font size="4">Certifications</font>
   - AWS Certified Cloud Practitioner (2025)
